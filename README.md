@@ -50,7 +50,7 @@ JobHunt is a modern full-stack job portal web portal web application where users
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/jobhunt.git
+git clone https://github.com/KajalSingh6/jobhunt.git
 cd jobhunt
 
 2. Backend Setup
