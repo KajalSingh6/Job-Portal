@@ -64,3 +64,8 @@ npm start
 cd frontend
 npm install
 npm run dev
+
+## Author
+
+Kajal Singh
+GitHub: https://github.com/KajalSingh6
